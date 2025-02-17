@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Se på hjemmeside"
+CtxMenu_OpenWebItemMac      "Se på hjemmeside"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Del link..."
+CtxMenu_ShareWebItemMac     "Del link..."
+CtxMenu_CollaborateItem     "Arbejd sammen..."
+CtxMenu_VersionsForItemWin  "Se filaktivitet"
+CtxMenu_VersionsForItemMac  "Se fil-handlinger"
+CtxMenu_DebugForceSyncWin   "Fejlfinding: Genstart synkronisering"
+CtxMenu_DebugForceSyncMac   "Fejlfinding: Genstart synkronisering"
+CtxMenu_MainSelSyncWin	    "Vælg delte mapper, der skal synkroniseres"
+CtxMenu_MainSelSyncMac      "Vælg delte mapper, der skal synkroniseres"
+ï»¿Str_CloudDocsShortcutMac    "_Cloud-dokumenter.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Cloud-dokumenter.lnk"

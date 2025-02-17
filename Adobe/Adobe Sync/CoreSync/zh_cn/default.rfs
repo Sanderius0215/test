@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "936"
+
+CtxMenu_OpenWebItemWin      "ÔÚÍøÕ¾ÉÏ²é¿´"
+CtxMenu_OpenWebItemMac      "ÔÚÍøÕ¾ÉÏ²é¿´"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "·ÖÏíÁ´½Ó..."
+CtxMenu_ShareWebItemMac     "·ÖÏíÁ´½Ó..."
+CtxMenu_CollaborateItem     "Ğ­×÷..."
+CtxMenu_VersionsForItemWin  "²é¿´ÎÄ¼ş»î¶¯"
+CtxMenu_VersionsForItemMac  "²é¿´ÎÄ¼ş»î¶¯"
+CtxMenu_DebugForceSyncWin   "µ÷ÊÔ£ºÖØĞÂÆô¶¯Í¬²½"
+CtxMenu_DebugForceSyncMac   "µ÷ÊÔ£ºÖØĞÂÆô¶¯Í¬²½"
+CtxMenu_MainSelSyncWin	    "Ñ¡ÔñÒªÍ¬²½µÄ¹²ÏíÎÄ¼ş¼Ğ"
+CtxMenu_MainSelSyncMac      "Ñ¡ÔñÒªÍ¬²½µÄ¹²ÏíÎÄ¼ş¼Ğ"
+ï»¿Str_CloudDocsShortcutMac    "_äº‘æ–‡æ¡£.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_äº‘æ–‡æ¡£.lnk"

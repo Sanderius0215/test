@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1254"
+
+CtxMenu_OpenWebItemWin      "Web sitesinde görüntüle"
+CtxMenu_OpenWebItemMac      "Web Sitesinde Görüntüle"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Baðlantýyý paylaþ..."
+CtxMenu_ShareWebItemMac     "Baðlantýyý Paylaþ..."
+CtxMenu_CollaborateItem     "Ýþ Birliði Yap..."
+CtxMenu_VersionsForItemWin  "Dosya etkinliðini görüntüle"
+CtxMenu_VersionsForItemMac  "Dosya Etkinliðini Görüntüle"
+CtxMenu_DebugForceSyncWin   "Hata Ayýkla: Senkronizasyonu yeniden baþlat"
+CtxMenu_DebugForceSyncMac   "Hata Ayýkla: Senkronizasyonu Yeniden Baþlat"
+CtxMenu_MainSelSyncWin	    "Senkronize edilecek paylaþýlan klasörleri seç"
+CtxMenu_MainSelSyncMac      "Senkronize Edilecek Paylaþýlan Klasörleri Seç"
+ï»¿Str_CloudDocsShortcutMac    "_Bulut belgeleri.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Bulut belgeleri.lnk"

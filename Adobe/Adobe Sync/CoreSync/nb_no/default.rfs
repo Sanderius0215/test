@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Vis på nettsted"
+CtxMenu_OpenWebItemMac      "Vis på nettsted"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Del kobling ..."
+CtxMenu_ShareWebItemMac     "Del kobling ..."
+CtxMenu_CollaborateItem     "Samarbeid ..."
+CtxMenu_VersionsForItemWin  "Vis filaktivitet"
+CtxMenu_VersionsForItemMac  "Vis filaktivitet"
+CtxMenu_DebugForceSyncWin   "Feilsøk: start synkronisering på nytt"
+CtxMenu_DebugForceSyncMac   "Feilsøk: start synkronisering på nytt"
+CtxMenu_MainSelSyncWin	    "Velg delte mapper som skal synkroniseres"
+CtxMenu_MainSelSyncMac      "Velg delte mapper som skal synkroniseres"
+ï»¿Str_CloudDocsShortcutMac    "_Nettsky-dokumenter.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Nettsky-dokumenter.lnk"

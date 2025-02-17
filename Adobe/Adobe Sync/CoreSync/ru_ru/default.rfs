@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1251"
+
+CtxMenu_OpenWebItemWin      "Просмотр на веб-сайте"
+CtxMenu_OpenWebItemMac      "Просмотр на веб-сайте"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Опубликовать ссылку..."
+CtxMenu_ShareWebItemMac     "Опубликовать ссылку..."
+CtxMenu_CollaborateItem     "Совместно работайте..."
+CtxMenu_VersionsForItemWin  "Просмотр обработки файлов"
+CtxMenu_VersionsForItemMac  "Просмотр обработки файлов"
+CtxMenu_DebugForceSyncWin   "Отладка: перезапустить синхронизацию"
+CtxMenu_DebugForceSyncMac   "Отладка: перезапустить синхронизацию"
+CtxMenu_MainSelSyncWin	    "Выберите общие папки для синхронизации"
+CtxMenu_MainSelSyncMac      "Выберите общие папки для синхронизации"
+п»їStr_CloudDocsShortcutMac    "_РћР±Р»Р°С‡РЅС‹Рµ РґРѕРєСѓРјРµРЅС‚С‹.webloc"
+п»їStr_CloudDocsShortcutWin    "_РћР±Р»Р°С‡РЅС‹Рµ РґРѕРєСѓРјРµРЅС‚С‹.lnk"

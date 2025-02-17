@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Näytä verkkosivustossa"
+CtxMenu_OpenWebItemMac      "Näytä verkkosivustossa"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Jaa linkki..."
+CtxMenu_ShareWebItemMac     "Jaa linkki..."
+CtxMenu_CollaborateItem     "Tee yhteistyötä..."
+CtxMenu_VersionsForItemWin  "Näytä tiedostotapahtumat"
+CtxMenu_VersionsForItemMac  "Näytä tiedostotapahtumat"
+CtxMenu_DebugForceSyncWin   "Virheenkorjaus: käynnistä synkronointi uudelleen"
+CtxMenu_DebugForceSyncMac   "Virheenkorjaus: käynnistä synkronointi uudelleen"
+CtxMenu_MainSelSyncWin	    "Valitse synkronoitavat jaetut kansiot"
+CtxMenu_MainSelSyncMac      "Valitse synkronoitavat jaetut kansiot"
+ï»¿Str_CloudDocsShortcutMac    "_Pilvidokumentit.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Pilvidokumentit.lnk"

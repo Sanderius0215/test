@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Visa på webbplats"
+CtxMenu_OpenWebItemMac      "Visa på webbplats"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Dela länk..."
+CtxMenu_ShareWebItemMac     "Dela länk..."
+CtxMenu_CollaborateItem     "Samarbeta..."
+CtxMenu_VersionsForItemWin  "Visa filaktivitet"
+CtxMenu_VersionsForItemMac  "Visa filaktivitet"
+CtxMenu_DebugForceSyncWin   "Felsökning: Starta om synkronisering"
+CtxMenu_DebugForceSyncMac   "Felsökning: Starta om synkronisering"
+CtxMenu_MainSelSyncWin	    "Välj delade mappar att synkronisera"
+CtxMenu_MainSelSyncMac      "Välj delade mappar att synkronisera"
+ï»¿Str_CloudDocsShortcutMac    "_Molndokument.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Molndokument.lnk"

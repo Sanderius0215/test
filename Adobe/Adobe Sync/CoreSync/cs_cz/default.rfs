@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1250"
+
+CtxMenu_OpenWebItemWin      "Zobrazit na webu"
+CtxMenu_OpenWebItemMac      "Zobrazit na webu"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Sdílet odkaz..."
+CtxMenu_ShareWebItemMac     "Sdílet odkaz..."
+CtxMenu_CollaborateItem     "Spolupracujte..."
+CtxMenu_VersionsForItemWin  "Zobrazit èinnosti se souborem"
+CtxMenu_VersionsForItemMac  "Zobrazit èinnosti se souborem"
+CtxMenu_DebugForceSyncWin   "Ladìní: Restartovat synchronizaci"
+CtxMenu_DebugForceSyncMac   "Ladìní: Restartovat synchronizaci"
+CtxMenu_MainSelSyncWin	    "Vybrat sdílené složky pro synchronizaci"
+CtxMenu_MainSelSyncMac      "Vybrat sdílené složky pro synchronizaci"
+ï»¿Str_CloudDocsShortcutMac    "_Dokumenty vÂ cloudu.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Dokumenty vÂ cloudu.lnk"

@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "View on website"
+CtxMenu_OpenWebItemMac      "View on Website"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Share link..."
+CtxMenu_ShareWebItemMac     "Share Link..."
+CtxMenu_CollaborateItem     "Collaborate..."
+CtxMenu_VersionsForItemWin  "View file activity"
+CtxMenu_VersionsForItemMac  "View File Activity"
+CtxMenu_DebugForceSyncWin   "Debug: Restart sync"
+CtxMenu_DebugForceSyncMac   "Debug: Restart Sync"
+CtxMenu_MainSelSyncWin	    "Select shared folders to sync"
+CtxMenu_MainSelSyncMac      "Select Shared Folders to Sync"
+﻿Str_CloudDocsShortcutMac    "_Cloud documents.webloc"
+﻿Str_CloudDocsShortcutWin    "_Cloud documents.lnk"

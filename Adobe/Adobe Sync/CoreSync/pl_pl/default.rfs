@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1250"
+
+CtxMenu_OpenWebItemWin      "Zobacz w Internecie"
+CtxMenu_OpenWebItemMac      "Zobacz w Internecie"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Udostêpnij ³¹cze..."
+CtxMenu_ShareWebItemMac     "Udostêpnij ³¹cze..."
+CtxMenu_CollaborateItem     "Wspó³pracuj..."
+CtxMenu_VersionsForItemWin  "Wyœwietl aktywnoœæ pliku"
+CtxMenu_VersionsForItemMac  "Wyœwietl aktywnoœæ pliku"
+CtxMenu_DebugForceSyncWin   "Debugowanie: uruchom ponownie synchronizacjê"
+CtxMenu_DebugForceSyncMac   "Debugowanie: uruchom ponownie synchronizacjê"
+CtxMenu_MainSelSyncWin	    "Wybierz udostêpniane foldery do synchronizacji"
+CtxMenu_MainSelSyncMac      "Wybierz udostêpniane foldery do synchronizacji"
+ï»¿Str_CloudDocsShortcutMac    "_Dokumenty w chmurze.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Dokumenty w chmurze.lnk"

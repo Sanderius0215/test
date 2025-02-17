@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Weergeven op website"
+CtxMenu_OpenWebItemMac      "Weergeven op website"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Koppeling delen..."
+CtxMenu_ShareWebItemMac     "Koppeling delen..."
+CtxMenu_CollaborateItem     "Samenwerken..."
+CtxMenu_VersionsForItemWin  "Bestandsactiviteit weergeven"
+CtxMenu_VersionsForItemMac  "Bestandsactiviteit weergeven"
+CtxMenu_DebugForceSyncWin   "Foutopsporing: sync opnieuw starten"
+CtxMenu_DebugForceSyncMac   "Foutopsporing: sync opnieuw starten"
+CtxMenu_MainSelSyncWin	    "Gedeelde mappen selecteren voor synchroniseren"
+CtxMenu_MainSelSyncMac      "Gedeelde mappen selecteren voor synchroniseren"
+﻿Str_CloudDocsShortcutMac    "_Clouddocumenten.webloc"
+﻿Str_CloudDocsShortcutWin    "_Clouddocumenten.lnk"

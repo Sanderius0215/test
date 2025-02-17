@@ -1,0 +1,17 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_OpenWebItemWin      "Visualizza sul sito Web"
+CtxMenu_OpenWebItemMac      "Visualizza nel sito Web"
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_ShareWebItemWin     "Condividi collegamento..."
+CtxMenu_ShareWebItemMac     "Condividi collegamento..."
+CtxMenu_CollaborateItem     "Collaborazione..."
+CtxMenu_VersionsForItemWin  "Visualizza attività file"
+CtxMenu_VersionsForItemMac  "Visualizza attività file"
+CtxMenu_DebugForceSyncWin   "Debug: Riavvia sincronizzazione"
+CtxMenu_DebugForceSyncMac   "Debug: Riavvia sincronizzazione"
+CtxMenu_MainSelSyncWin	    "Selezionate le cartelle condivise da sincronizzare"
+CtxMenu_MainSelSyncMac      "Selezionate le cartelle condivise da sincronizzare"
+ï»¿Str_CloudDocsShortcutMac    "_Documenti cloud.webloc"
+ï»¿Str_CloudDocsShortcutWin    "_Documenti cloud.lnk"

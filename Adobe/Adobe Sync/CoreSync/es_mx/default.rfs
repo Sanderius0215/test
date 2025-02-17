@@ -1,0 +1,7 @@
+# RFS file codepage.
+RFS_CODEPAGE "1252"
+
+CtxMenu_MainItem            "Creative Cloud"
+CtxMenu_CollaborateItem     "Agregar colaboradores..."
+﻿Str_CloudDocsShortcutMac    "_Documentos en la nube.webloc"
+﻿Str_CloudDocsShortcutWin    "_Documentos en la nube.lnk"
